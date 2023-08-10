@@ -61,11 +61,12 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-### webServer output
-![webserver output](webserveroutput.jpg)
 
+### webServer output
+![webserver output](/.Webserveroutput.jpg)
 ### Client output
-![Client output](Clientoutput.jpg)
+![Client output](/.Clientoutput.jpg)
+
 ## RESULT:
 The program is executed succesfully
 
