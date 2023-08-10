@@ -61,9 +61,9 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-### webServer output
+webServer output
 ![image](https://github.com/23003522/webserver/assets/138849213/5e3414e9-5d33-47b6-a9eb-5b35021da505)
-### Client output
+Client output
 ![image](https://github.com/23003522/webserver/assets/138849213/61075398-a3cb-4541-a098-757505f245c6)
 
 ## RESULT:
